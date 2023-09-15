@@ -7,7 +7,7 @@
 
 我有一个自己的[博客站点](https://www.macin.org/)，如果有一天腾讯公众号死掉了，我的文字还不至于流散。当然也欢迎各位添加微信，多多交流。
 
-![](https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/shirley-wechat.webp)
+![图片](https://github.com/Macin20/why-we-write/blob/main/wechat.jpg)
 
 ### 内容大纲
 
